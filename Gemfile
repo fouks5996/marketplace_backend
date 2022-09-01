@@ -46,6 +46,8 @@ group :development do
   # gem "spring"
 end
 
+gem 'pg'
+
 
 gem "devise", "~> 4.8"
 gem "devise-jwt", "~> 0.9.0"
